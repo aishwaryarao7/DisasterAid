@@ -1,4 +1,4 @@
-# new_app
+# DisasterAid
 
 A new Flutter project.
 
